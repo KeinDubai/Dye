@@ -9,7 +9,3 @@ x = 575.9
 
 
 
-
-lista = {'gato':'motita', 'tele':'apagado'}
-
-lista['gato']
