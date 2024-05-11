@@ -1,0 +1,15 @@
+y = 386.7
+
+x = 469.6   460.6
+x = 489.4
+x = 518.5
+x = 548.1
+x = 575.9
+
+
+
+
+
+lista = {'gato':'motita', 'tele':'apagado'}
+
+lista['gato']
